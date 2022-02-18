@@ -23,11 +23,11 @@ submit.sh: use sbatch to implement the graph:
 
 <Airline>
 Data can be downloaded via http://pages.stat.wisc.edu/~jgillett/605/HPC/airlines/1987.csv.bz2
-
-farthest.sh:
   
-pipeline.sh:
+pipeline.sh: download and catch the data
   
-turn.sh:
+turn.sh: merge all 
+  
+farthest.sh: 
   
 submit.sh:
