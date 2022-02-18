@@ -11,9 +11,7 @@
 
 
 ## Airline
-#### Data can be downloaded via http://pages.stat.wisc.edu/~jgillett/605/HPC/airlines/1987.csv.bz2
-
-
+### Data can be downloaded via http://pages.stat.wisc.edu/~jgillett/605/HPC/airlines/1987.csv.bz2
 #### pipeline.sh: download and catch the data 
 #### turn.sh: merge all the .csv files into one big .csv file (allMSN.csv)
 #### farthest.sh: find the farthest value in allMSN.csv
